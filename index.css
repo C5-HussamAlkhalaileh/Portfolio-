@@ -75,7 +75,7 @@ border-radius: 20px;
  .container-lg.project{
 
   text-align: center;
-  margin-top: 200px;
+  margin-top: 40px;
   border-radius: 25px;
   /*text-shadow: 0 0 3px #FF0000;*/
 
@@ -86,7 +86,7 @@ border-radius: 20px;
  border-radius: 15px;
  text-shadow: 0 0 3px #8b7d7d;
  width: 100%;
- COLOR:#E9E7DA
+ color:#E9E7DA
   
  }
 
@@ -111,13 +111,14 @@ border-radius: 20px;
    
 } 
 .contact-me{
-margin-bottom: 50px;
+margin-top: 60px;
 background-color: #636B46;
 border-radius: 15px;
 text-shadow: 0 0 5px #8b7d7d;
 padding-bottom: 28px;
 text-align: center;
-COLOR:#E9E7DA;
+color:#E9E7DA
+/*hussamportfolio*/
  
 
 
